@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [jinix7](https://github.com/jinix7)
 
-- ▶️ I regularly post videos on the [Youtube](https://youtube.com/maykbrito)
+- ▶️ I regularly post videos on the [Youtube](bit.ly/3izZxTL)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Node.JS**
 
@@ -58,9 +58,6 @@
  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<!--<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=jinix7&layout=wide&show_reply=off&show_retweet=off" />-->
-
 
 <!---
 jinix7/jinix7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
