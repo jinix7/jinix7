@@ -39,7 +39,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/unammad" target="_blank">
+<a href="https://codepen.io/jinix7" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://discord.gg/sYK53QkQ3Q" target="_blank">
@@ -51,10 +51,7 @@
 <a href="bit.ly/36CIZI2" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/unammad" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
+<a href="bit.ly/3izZxTL" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
