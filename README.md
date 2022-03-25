@@ -3,15 +3,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm jinix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 New to the world of programming
+- 🔥 novo no mundo da programação
 
-<!--- 🔭 I'm working on creating my discord server [discord](https://github.com/Rocketseat)-->
+- 👨‍💻 todos os meus projetos estão disponíveis em [jinix7](https://github.com/jinix7)
 
-- 👨‍💻 All of my projects are available at [jinix7](https://github.com/jinix7)
+- ▶️ eu posto vídeos regularmente no [Youtube](bit.ly/3izZxTL)
 
-- ▶️ I regularly post videos on the [Youtube](bit.ly/3izZxTL)
-
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, Node.JS**
+- 💬 pergunte me qualquer coisa no discord [discord]()
 
 - ⚡ Fun fact **Oneye 😜**
 
