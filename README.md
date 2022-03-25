@@ -6,7 +6,7 @@
 
 - 👨‍💻 todos os meus projetos estão disponíveis em [jinix7](https://github.com/jinix7)
 
-- ▶️ eu posto vídeos regularmente no [Youtube](bit.ly/3izZxTL)
+- ▶️ eu posto vídeos regularmente no [youtube](https://www.youtube.com/channel/UCBTbXcTf0KZpY9ehKbqvzSg)
 
 - 💬 pergunte me qualquer coisa no discord [discord]()
 
