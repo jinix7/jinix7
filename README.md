@@ -1,5 +1,4 @@
 
-<!--<img align="right" height="590em" src=" "/>-->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm jinix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 💬 pergunte me qualquer coisa no discord [discord]()
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ criador de selfbot para discord
 
 <br><br>
 
