@@ -8,7 +8,7 @@
 
 - ▶️ eu posto vídeos regularmente no [youtube](https://www.youtube.com/channel/UCBTbXcTf0KZpY9ehKbqvzSg)
 
-- 💬 pergunte me qualquer coisa no discord [discord]()
+- 💬 pergunte me qualquer coisa no discord [discord](https://discord.gg/sYK53QkQ3Q)
 
 - ⚡ criador de selfbot para discord
 
