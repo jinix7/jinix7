@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm jinix</h1>
+<h1 align="left">oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou jinix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 novo no mundo da programação
