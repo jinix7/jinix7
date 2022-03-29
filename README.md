@@ -18,9 +18,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 
 <br><br>
 
@@ -35,19 +34,19 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/jinix7" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://discord.gg/sYK53QkQ3Q" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=discord" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" alt="twitter"/>  
 </a>
 <a href="https://twitter.com/unammad" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="bit.ly/36CIZI2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="bit.ly/3izZxTL" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-jinix7-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
