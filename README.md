@@ -2,15 +2,15 @@
 <h1 align="left">oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou jinix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 novo no mundo da programação
+- 🔥 atualmente estou aprendendo javascript.
 
-- 👨‍💻 todos os meus projetos estão disponíveis em [jinix7](https://github.com/jinix7)
+- 👨‍💻 todos os meus projetos estão disponíveis aqui [jinix7](https://github.com/jinix7)
 
 - ▶️ eu posto vídeos regularmente no [youtube](https://www.youtube.com/channel/UCBTbXcTf0KZpY9ehKbqvzSg)
 
-- 💬 pergunte me qualquer coisa no discord [discord](https://discord.gg/sYK53QkQ3Q)
+- 💬 meios de contato via discord [discord](https://discord.gg/sYK53QkQ3Q)
 
-- ⚡ criador de selfbot para discord
+- ⚡ no momento estou criado selfbot para discord.
 
 <br><br>
 
