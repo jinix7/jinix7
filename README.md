@@ -25,9 +25,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jinix7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<a href="https://github.com/jinix7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinix7&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinix7&layout=compact&langs_count=7&theme=gruvbox"/>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
