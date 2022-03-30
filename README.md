@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
 <div> 
-  <a href="https://www.youtube.com/channel/UCBTbXcTf0KZpY9ehKbqvzSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  <a href="https://www.youtube.com/channel/UCBTbXcTf0KZpY9ehKbqvzSg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
  </a>
   <a href="https://www.linkedin.com/in/jinix7-%E3%85%A4-ab50b0219/" target="_blank"><img src="https://img.shields.io/badge/linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
   <a href="https://discord.gg/sYK53QkQ3Q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a>
