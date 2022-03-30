@@ -9,7 +9,9 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCJHXoxcW_0VzgLMh91y79kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
  </a>
-  <a href="https://discord.gg/sYK53QkQ3Q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
+  <a href="https://www.linkedin.com/in/jinix7-%E3%85%A4-ab50b0219/" target="_blank"><img src="https://img.shields.io/badge/linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
+  <a href="https://discord.gg/sYK53QkQ3Q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a>
+  <a href="https://codepen.io/jinix7" target="_blank"><img src="https://img.shields.io/badge/codepen-9146FF?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">  </a>
  
   <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/818505825739735050/819662462382768150/351caf72c75afd8c58459687c46e38ec.png?950&height=204"/>
  
