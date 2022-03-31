@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/jinix7-%E3%85%A4-ab50b0219/" target="_blank"><img src="https://img.shields.io/badge/linkedin-4495d4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
   <a href="https://discord.gg/sYK53QkQ3Q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a>
  
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/818505825739735050/819662462382768150/351caf72c75afd8c58459687c46e38ec.png?950&height=204"/>
+  <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/958187624915423262/958949064152596510/351caf72c75afd8c58459687c46e38ec.png"/>
  
   
     
