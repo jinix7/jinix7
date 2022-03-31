@@ -16,9 +16,10 @@
   <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/818505825739735050/819662462382768150/351caf72c75afd8c58459687c46e38ec.png?950&height=204"/>
  
   
-  
+    
   
 </div>
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
   
   ![Snake animation](https://github.com/jinix7/jinix7/blob/output/github-contribution-grid-snake.svg)
