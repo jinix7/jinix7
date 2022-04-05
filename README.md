@@ -15,7 +15,7 @@
   
 </div>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>
+  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinix7&color=yellow" alt="Profile views" /> </p>-->
   
   ![Snake animation](https://github.com/jinix7/jinix7/blob/output/github-contribution-grid-snake.svg)
   
