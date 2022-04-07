@@ -19,6 +19,11 @@
   
   ![Snake animation](https://github.com/jinix7/jinix7/blob/output/github-contribution-grid-snake.svg)
   
+  
+  
+usuario linux <img src="https://cdn.discordapp.com/attachments/958187624915423262/961667523823144990/001.gif" width="45" weight="45">
+  
+  
 
   
 
