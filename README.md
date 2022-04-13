@@ -23,7 +23,7 @@
   
   
   
-usuario linux <img src="https://cdn.discordapp.com/attachments/958187624915423262/961667523823144990/001.gif" width="45" weight="45">
+<b>usuario linux</b> <img src="https://cdn.discordapp.com/attachments/958187624915423262/961667523823144990/001.gif" width="45" weight="45">
   
   
 
